@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Movies>
+    <Movie rating="R">
+        <Title runtime="177">The Godfather</Title>
+        <Genres>
+            <Genre>Crime</Genre>
+            <Genre>Drama</Genre>
+        </Genres>
+        <Director>
+            <Name>
+                <First>Francis Ford</First>
+                <Last>Coppola</Last>
+            </Name>
+        </Director>
+        <Actors>
+            <Actor>Marlon Brando</Actor>
+            <Actor>Al Pacino</Actor>
+            <Actor>James Caan</Actor>
+        </Actors>
+        <Studio>Paramount Pictures</Studio>
+        <Year>1972</Year>
+    </Movie>
+    <Movie rating="R">
+        <Title runtime="177">The Godfather 2</Title>
+        <Genres>
+            <Genre>Crime</Genre>
+        </Genres>
+        <Director>
+            <Name>
+                <First>Francis Ford</First>
+                <Last>Coppola</Last>
+            </Name>
+        </Director>
+        <Actors>
+            <Actor>Marlon Brando</Actor>
+            <Actor>Al Pacino</Actor>
+            <Actor>James Caan</Actor>
+        </Actors>
+        <Studio>Paramount Pictures</Studio>
+        <Year>1975</Year>
+    </Movie>
+</Movies>

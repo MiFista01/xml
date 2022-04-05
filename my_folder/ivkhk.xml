@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IVKHK>
+    <branch name="IT and Multimedia">
+        <profession name="Software developer">
+            <group name="JPTV20">
+                <student>
+                    <name>name1</name>
+                    <surname>surname1</surname>
+                    <birthday>2004</birthday>
+                </student>
+                <student>
+                    <name>name2</name>
+                    <surname>surname2</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+            <group name="JPTV19">
+                <student>
+                    <name>name3</name>
+                    <surname>surname3</surname>
+                    <birthday>2003</birthday>
+                </student>
+                <student>
+                    <name>name4</name>
+                    <surname>surname4</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+        </profession>
+
+        <profession name="IT System Specialist">
+            <group name="JPITE20">
+                <student>
+                    <name>name5</name>
+                    <surname>surname5</surname>
+                    <birthday>2004</birthday>
+                </student>
+                <student>
+                    <name>name6</name>
+                    <surname>surname6</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+            <group name="JPITE21">
+                <student>
+                    <name>name7</name>
+                    <surname>surname7</surname>
+                    <birthday>2003</birthday>
+                </student>
+                <student>
+                    <name>name8</name>
+                    <surname>surname8</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+        </profession>
+    </branch>
+    <branch name="Tehnology">
+        <profession name="Automation">
+            <group name="JPAS20">
+                <student>
+                    <name>name9</name>
+                    <surname>surname9</surname>
+                    <birthday>2004</birthday>
+                </student>
+                <student>
+                    <name>name10</name>
+                    <surname>surname10</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+            <group name="JPAS21">
+                <student>
+                    <name>name11</name>
+                    <surname>surname11</surname>
+                    <birthday>2003</birthday>
+                </student>
+                <student>
+                    <name>name12</name>
+                    <surname>surname12</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+        </profession>
+
+        <profession name="Mining worker">
+            <group name="JPMTR19">
+                <student>
+                    <name>name13</name>
+                    <surname>surname13</surname>
+                    <birthday>2004</birthday>
+                </student>
+                <student>
+                    <name>name14</name>
+                    <surname>surname14</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+            <group name="JPMT20">
+                <student>
+                    <name>name15</name>
+                    <surname>surname15</surname>
+                    <birthday>2003</birthday>
+                </student>
+                <student>
+                    <name>name16</name>
+                    <surname>surname16</surname>
+                    <birthday>2003</birthday>
+                </student>
+            </group>
+        </profession>
+    </branch>
+</IVKHK>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Countries>
+    <Country name="Eestonia">
+        <languag>Eesti keel</languag>
+        <currency>Euro</currency>
+        <ico>€</ico>
+    </Country>
+    <Country name="Russian">
+        <languag>Russian language</languag>
+        <currency>Рубль</currency>
+        <ico>₽</ico>
+    </Country>
+    <Country name="USA">
+        <languag>English</languag>
+        <currency>dollar</currency>
+        <ico>$</ico>
+    </Country>
+</Countries>
