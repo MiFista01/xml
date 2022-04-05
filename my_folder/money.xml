@@ -7,7 +7,7 @@
     </Country>
     <Country name="Russian">
         <languag>Russian language</languag>
-        <currency>Рубль</currency>
+        <currency>Rubl</currency>
         <ico>₽</ico>
     </Country>
     <Country name="USA">

@@ -1,0 +1,11 @@
+<!ELEMENT IVKHK (branch+)>
+<!ELEMENT branch (profession+)>
+<!ATTLIST branch name CDATA #REQUIRED>
+<!ELEMENT profession (group+)>
+<!ATTLIST profession name CDATA #REQUIRED>
+<!ELEMENT group (student+)>
+<!ATTLIST group name NMTOKEN #REQUIRED>
+<!ELEMENT student (name,surname,birthday)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT birthday (#PCDATA)>
