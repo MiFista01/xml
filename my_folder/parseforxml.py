@@ -10,44 +10,44 @@ for i in countries:
 
 
 
-# import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET
 
-# tree = ET.parse("my_folder/ivkhk.xml")
-# root = tree.getroot()
+tree = ET.parse("my_folder/ivkhk.xml")
+root = tree.getroot()
 
-# mass = []
-# for q in root.findall('./branch'): #name branch
-#     branch = {}
-#     professions = []
+mass = []
+for q in root.findall('./branch'): #name branch
+    branch = {}
+    professions = []
 
-#     branch['Branch name'] = q.attrib['name']
-#     for w in q:
-#         profession = {}
-#         groups = []
+    branch['Branch name'] = q.attrib['name']
+    for w in q:
+        profession = {}
+        groups = []
         
-#         profession['Profession name'] = w.attrib['name']
-#         professions.append(profession)
-#         for e in w:
-#             group = {}
-#             students = []
+        profession['Profession name'] = w.attrib['name']
+        professions.append(profession)
+        for e in w:
+            group = {}
+            students = []
             
-#             group['Group name'] = e.attrib['name']
-#             groups.append(group)
-#             for r in e:
-#                 student = {}
-#                 for t in r:
-#                     if t.tag == 'name':
-#                         student['name'] = t.text
-#                     if t.tag == 'surname':
-#                         student['surname'] = t.text
-#                     if t.tag == 'birthday':
-#                         student['birthday'] = t.text
-#                 students.append(student)
-#                 group['Students'] = students
-#         profession['Groups'] = groups
-#     branch['Professions'] = professions
+            group['Group name'] = e.attrib['name']
+            groups.append(group)
+            for r in e:
+                student = {}
+                for t in r:
+                    if t.tag == 'name':
+                        student['name'] = t.text
+                    if t.tag == 'surname':
+                        student['surname'] = t.text
+                    if t.tag == 'birthday':
+                        student['birthday'] = t.text
+                students.append(student)
+                group['Students'] = students
+        profession['Groups'] = groups
+    branch['Professions'] = professions
     
-#     mass.append(branch)
+    mass.append(branch)
     
 
 # for q in mass:
