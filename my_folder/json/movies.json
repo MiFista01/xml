@@ -1,0 +1,402 @@
+[
+    {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2014",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "Plot": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "72%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }
+        ],
+        "Metascore": "74",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,708,996",
+        "imdbID": "tt0816692",
+        "Type": "movie",
+        "DVD": "31 Mar 2015",
+        "BoxOffice": "$188,020,017",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "RoboCop",
+        "Year": "1987",
+        "Rated": "R",
+        "Released": "17 Jul 1987",
+        "Runtime": "102 min",
+        "Genre": "Action, Crime, Sci-Fi",
+        "Director": "Paul Verhoeven",
+        "Writer": "Edward Neumeier, Michael Miner",
+        "Actors": "Peter Weller, Nancy Allen, Dan O'Herlihy",
+        "Plot": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 11 wins & 13 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "7.6",
+        "imdbVotes": "250,963",
+        "imdbID": "tt0093870",
+        "Type": "movie",
+        "DVD": "01 Aug 2006",
+        "BoxOffice": "$53,424,681",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Oblivion",
+        "Year": "2013",
+        "Rated": "PG-13",
+        "Released": "19 Apr 2013",
+        "Runtime": "124 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Joseph Kosinski",
+        "Writer": "Karl Gajdusek, Michael Arndt, Joseph Kosinski",
+        "Actors": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+        "Plot": "One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win & 17 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "53%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ],
+        "Metascore": "54",
+        "imdbRating": "7.0",
+        "imdbVotes": "511,254",
+        "imdbID": "tt1483013",
+        "Type": "movie",
+        "DVD": "06 Aug 2013",
+        "BoxOffice": "$89,107,235",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Ghost Rider",
+        "Year": "2007",
+        "Rated": "PG-13",
+        "Released": "16 Feb 2007",
+        "Runtime": "110 min",
+        "Genre": "Action, Fantasy, Thriller",
+        "Director": "Mark Steven Johnson",
+        "Writer": "Mark Steven Johnson",
+        "Actors": "Nicolas Cage, Eva Mendes, Sam Elliott",
+        "Plot": "When the motorcyclist Johnny Blaze finds that his father Barton Blaze has terminal cancer, he accepts a pact with Mephistopheles, giving his soul for the health of his beloved father. But the devil deceives him, and Barton dies in a motorcycle accident during an exhibition. Johnny leaves the carnival, his town, his friends, and his girlfriend Roxanne. Many years later, Johnny Blaze becomes a famous motorcyclist, who risks his life in his shows, and he meets Roxanne again, now a television reporter. However, Mephistopheles proposes Johnny to release his contract if he become the \"Ghost Rider\" and defeat his evil son Blackheart, who wants to possess one thousand evil souls and transform hell on Earth.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "1 win & 11 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "26%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "35/100"
+            }
+        ],
+        "Metascore": "35",
+        "imdbRating": "5.2",
+        "imdbVotes": "234,189",
+        "imdbID": "tt0259324",
+        "Type": "movie",
+        "DVD": "12 Jun 2007",
+        "BoxOffice": "$115,802,596",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Terminator",
+        "Year": "1984",
+        "Rated": "R",
+        "Released": "26 Oct 1984",
+        "Runtime": "107 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Gale Anne Hurd, William Wisher",
+        "Actors": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+        "Plot": "Sent back from a dystopian 2029--where the cold machines have conquered the entire world--to 1984 Los Angeles, the indestructible cyborg-assassin known as the \"Terminator\" commences his deadly mission to kill humankind's most important woman: the unsuspecting Sarah Connor. However, from the same war-torn post-apocalyptic future comes a battle-scarred defender--Kyle Reese, a brave soldier of the human Resistance Army--bent on stopping the cybernetic killer from eliminating the world's last hope. But, the Terminator has no feelings, he doesn't sleep, and above all, he won't stop until he carries out his grim task. Does our future lie in our past?",
+        "Language": "English, Spanish",
+        "Country": "United Kingdom, United States",
+        "Awards": "8 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "8.1",
+        "imdbVotes": "836,766",
+        "imdbID": "tt0088247",
+        "Type": "movie",
+        "DVD": "02 Oct 2001",
+        "BoxOffice": "$38,371,200",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "18 Jul 2008",
+        "Runtime": "152 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "Plot": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as \"The Joker\" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
+        "Language": "English, Mandarin",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 2 Oscars. 159 wins & 163 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "94%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": "84",
+        "imdbRating": "9.1",
+        "imdbVotes": "2,528,462",
+        "imdbID": "tt0468569",
+        "Type": "movie",
+        "DVD": "09 Dec 2008",
+        "BoxOffice": "$534,987,076",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Avatar",
+        "Year": "2009",
+        "Rated": "PG-13",
+        "Released": "18 Dec 2009",
+        "Runtime": "162 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron",
+        "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+        "Plot": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid \"Na'vi\" in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an \"avatar\" identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "Won 3 Oscars. 89 wins & 131 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "82%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "83/100"
+            }
+        ],
+        "Metascore": "83",
+        "imdbRating": "7.9",
+        "imdbVotes": "1,185,150",
+        "imdbID": "tt0499549",
+        "Type": "movie",
+        "DVD": "22 Apr 2010",
+        "BoxOffice": "$760,507,625",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Guardians of the Galaxy",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "01 Aug 2014",
+        "Runtime": "121 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "James Gunn",
+        "Writer": "James Gunn, Nicole Perlman, Dan Abnett",
+        "Actors": "Chris Pratt, Vin Diesel, Bradley Cooper",
+        "Plot": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the galaxy.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 2 Oscars. 52 wins & 102 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "76/100"
+            }
+        ],
+        "Metascore": "76",
+        "imdbRating": "8.1",
+        "imdbVotes": "1,131,146",
+        "imdbID": "tt2015381",
+        "Type": "movie",
+        "DVD": "09 Dec 2014",
+        "BoxOffice": "$333,718,600",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "Rated": "R",
+        "Released": "05 May 2000",
+        "Runtime": "155 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Ridley Scott",
+        "Writer": "David Franzoni, John Logan, William Nicholson",
+        "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+        "Plot": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Malta, Morocco",
+        "Awards": "Won 5 Oscars. 59 wins & 106 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "77%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "8.5",
+        "imdbVotes": "1,443,934",
+        "imdbID": "tt0172495",
+        "Type": "movie",
+        "DVD": "26 Sep 2000",
+        "BoxOffice": "$187,705,427",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Year": "2003",
+        "Rated": "PG-13",
+        "Released": "09 Jul 2003",
+        "Runtime": "143 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Gore Verbinski",
+        "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+        "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+        "Plot": "This swash-buckling tale follows the quest of Captain Jack Sparrow, a savvy pirate, and Will Turner, a resourceful blacksmith, as they search for Elizabeth Swann. Elizabeth, the daughter of the governor and the love of Will's life, has been kidnapped by the feared Captain Barbossa. Little do they know, but the fierce and clever Barbossa has been cursed. He, along with his large crew, are under an ancient curse, doomed for eternity to neither live, nor die. That is, unless a blood sacrifice is made.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "Metascore": "63",
+        "imdbRating": "8.0",
+        "imdbVotes": "1,070,277",
+        "imdbID": "tt0325980",
+        "Type": "movie",
+        "DVD": "25 Jan 2005",
+        "BoxOffice": "$305,413,918",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]

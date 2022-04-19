@@ -1,0 +1,83 @@
+[   
+    {
+        "name":"Diablo",
+        "image":"https://pizzarini.info/wp-content/uploads/2018/03/pitstsa-diablo-1-1024x534.jpg",
+        "dough":[
+            {"name":"flour", "unit":"cup", "count":"1,5"},
+            {"name":"milk", "unit":"ml", "count":"100"},
+            {"name":"yolk", "unit":"thing", "count":"1"},
+            {"name":"vegetable oil", "unit":"g", "count":"40"},
+            {"name":"flour", "unit":"cup", "count":"1,5"}
+        ],
+        "filling":[
+            {"name":"Bavarian, Viennese and Italian sausages", "unit":"g", "count":"50"},
+            {"name":"salami pepperoni", "unit":"g", "count":"50"},
+            {"name":"spicy Tabasco sauce", "unit":"-", "count":"by taste"},
+            {"name":"bulb", "unit":"thing", "count":"1"},
+            {"name":"Mozzarella", "unit":"g", "count":"200"}
+        ],
+        "steps":[
+            {"id":"1", "description":"Sift flour, mix with salt and sugar, beaten egg, add liquids and collect the mass into a single whole. Sprinkle a table or cutting board with flour, grease your hands with oil, put it out of the bowl, knead. Wrap in cling film or a damp towel and set aside for 15 minutes."},
+            {"id":"2", "description":"Cut sausages and salami into slices. Chop the onion and fry in a minimum amount of oil."},
+            {"id":"3", "description":"Roll out the dough to a thickness of 3 mm, thinly distribute the sauce, then the filling. Top with mozzarella."},
+            {"id":"4", "description":"Bake at 250 degrees for 5-7 minutes."}
+        ],
+        "link":"https://pizza.od.ua/blog/retsepty-pitstsy-samye-populyarnye-v-mire-top-v-2019-godu.html"
+    },
+
+    {
+        "name":"Mega Meat",
+        "image":"https://joyspizza.ru/public/images/1647971651086-1530563115148-megamit.jpg",
+        "dough":[
+            {"name":"flour", "unit":"g", "count":"350"},
+            {"name":"active yeast", "unit":"ml", "count":"100"},
+            {"name":"water", "unit":"ml", "count":"200"},
+            {"name":"vegetable oil", "unit":"g", "count":"20"},
+            {"name":"flour", "unit":"cup", "count":"1.5"}
+        ],
+        "filling":[
+            {"name":"tomato sauce", "unit":"-", "count":"by taste"},
+            {"name":"bacon", "unit":"g", "count":"100"},
+            {"name":"ham", "unit":"g", "count":"100"},
+            {"name":"Champignon", "unit":"thing", "count":"5"},
+            {"name":"Mozzarella", "unit":"g", "count":"150"},
+            {"name":"jalapeno pepper", "unit":"thing", "count":"0.5"}
+        ],
+        "steps":[
+            {"id":"1", "description":"Combine wheat flour with salt, yeast, sugar, vegetable oil. Slowly adding water, knead the dough from the products in a convenient way: by hand, in a food processor, with a hand mixer with screw nozzles."},
+            {"id":"2", "description":"Cover the bowl with a towel and let it rest for 30-40 minutes."},
+            {"id":"3", "description":"With oily hands, pull out a cake with a diameter of 40 cm. Plastic dough easily takes any shape. Grease a baking sheet thickly with a piece of butter, lay the circle."},
+            {"id":"4", "description":"Distribute the sauce, filling, sprinkle with cheese. Send for 15 minutes in the oven. Cut the finished pizza with a roller cutter and taste it immediately."}
+        ],
+        "link":"https://pizza.od.ua/blog/retsepty-pitstsy-samye-populyarnye-v-mire-top-v-2019-godu.html"
+    },
+
+    {
+        "name":"Marinara",
+        "image":"https://img.povar.ru/main/43/51/f5/f0/picca_marinara-311003.jpg",
+        "dough":[
+            {"name":"whole grain flour", "unit":"g", "count":"200"},
+            {"name":"wheat flour", "unit":"g", "count":"100"},
+            {"name":"glass of liquid", "unit":"cup", "count":"0.5"},
+            {"name":"dry yeast", "unit":"spoonful ", "count":"1"},
+            {"name":"sugar", "unit":"spoonful ", "count":"1"},
+            {"name":"oregano", "unit":"spoonful ", "count":"1"},
+            {"name":"basil", "unit":"spoonful ", "count":"1"}
+
+        ],
+        "filling":[
+            {"name":"shrimp", "unit":"g", "count":"100"},
+            {"name":"squid", "unit":"g", "count":"100"},
+            {"name":"mussels", "unit":"g", "count":"100"},
+            {"name":"mozzarella", "unit":"g", "count":"200"},
+            {"name":"olives", "unit":"g", "count":"150"},
+            {"name":"cream sauce", "unit":"g", "count":"100"}
+        ],
+        "steps":[
+            {"id":"1", "description":"Dissolve the yeast, combine with the rest of the ingredients, mix. Put it on the table and knead a smooth elastic dough. If it sticks to the countertop or stretches like chewing gum, add 1-2 tablespoons of flour, send it to 'rest' for 40 minutes."},
+            {"id":"2", "description":"To prepare the sauce, put out the cream, garlic, butter, flour in a frying pan, combine with dry herbs, olive oil, a pinch of salt."},
+            {"id":"3", "description":"Knead the dough well, roll out a circle 5 mm thick, put the sauce, filling, sliced olives, cheese. Serve with fresh basil leaves."}
+        ],
+        "link":"https://pizza.od.ua/blog/retsepty-pitstsy-samye-populyarnye-v-mire-top-v-2019-godu.html"
+    }
+]

@@ -1,4 +1,3 @@
-from pprint import pprint
 from bs4 import BeautifulSoup
 with open('my_folder/money.xml','r') as q:
     data = q.read()

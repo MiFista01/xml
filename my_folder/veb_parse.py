@@ -33,11 +33,11 @@ with open ("index.html","w",encoding="utf8") as q:
     for w in range(5):
         item = save_items[w]
         article = f"""<article>
-        <h2>{item[0]}</h2>
-        <img src='{item[3]}'>
-        <p>{item[1]}</p>
-        <p>{item[2]}</p>
-        </article>"""
+                        <h2>{item[0]}</h2>
+                        <img src='{item[3]}'>
+                        <p>{item[1]}</p>
+                        <p>{item[2]}</p>
+                    </article>"""
         if w == 0:
             article1 = article
         if w == 1:
@@ -60,11 +60,13 @@ with open ("index.html","w",encoding="utf8") as q:
         <script src='main.js'></script>
     </head>
     <body>
-        {article1}
-        {article2}
-        {article3}
-        {article4}
-        {article5}
+        <div class="wrapper">
+            {article1}
+            {article2}
+            {article3}
+            {article4}
+            {article5}
+        </div>
     </body>
     </html>"""
     q.write(f"{main}")
